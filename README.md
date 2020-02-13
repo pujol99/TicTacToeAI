@@ -1,6 +1,8 @@
 # TicTacToeAI
 Play tic tac toe against the machine 
 
+minmax algorithm used
+
 # Instructions
 
 1 - Install python
